@@ -1,0 +1,9 @@
+Prop drilling 
+creating gloabl object 
+context api -> only in react
+redux -> state management organsation
+React redux
+redux-ttolkit -> rtk -> easier version 
+zustand-> easy librabry for state management
+
+
