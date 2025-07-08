@@ -1,23 +1,3 @@
-Prop drilling 
-creating gloabl object 
-context api -> only in react
-redux -> state management organsation
-React redux
-redux-ttolkit -> rtk -> easier version 
-zustand-> easy librabry for state management
-
-
-redux is a state managemet librabry
-react-redux
-
-redux and react-redux both are required for it to work
-
-store , reducers (portions of reducers)
-
-useSelector (selector from stroe)
-useDispatcher 
-
-//code 
 import React, { useId } from 'react';
 
 function Input(
